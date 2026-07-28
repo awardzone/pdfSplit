@@ -7,7 +7,7 @@ I files che verranno genrati avranno  una progressione numerica e saranno salvat
 
 Prima di eseguire lo script, assicurati di aver installato la libreria necessaria tramite terminale:
 
-  ``pip install pypdf ``
+>  ``pip install pypdf ``
 
 ## Come utilizzarlo
 
@@ -15,4 +15,4 @@ Puoi lanciare lo script direttamente dal terminale passando il file di origine e
 
 Ad esempio, se hai un file chiamato documento.pdf (magari di 11 pagine) e vuoi dividerlo in blocchi da 5 pagine, scriverai:
 
-  ``python split_pdf.py documento.pdf 5 ``
+>  ``python split_pdf.py documento.pdf 5 ``
